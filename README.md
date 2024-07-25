@@ -1,39 +1,29 @@
-# Academic Self-Introduction
-
 ## Personal Information
 
-- **Name**: [Your Name]
+- **Name**: Yunlong Zhou       
 - **Degree**: PhD Candidate
-- **Research Area**: [Your Research Field]
-- **Department**: [Your Department or School]
-- **Supervisor**: [Your Supervisor's Name]
-- **Email**: [Your Email Address]
-- **Personal Website**: [Optional, include your academic homepage or personal website link if available]
+- **Research Area**: Precipitation nowcasting; Spatiotemporal sequence prediction  
+- **Department**: School of Intelligence Science and Technology, Nanjing University
+- **Email**: zhouyunlong1025@gmail.com  
 
 ## Education
 
 - **PhD**
-  - **Institution**: [University Name]
-  - **Field of Study**: [Your Major]
-  - **Start Date**: [Year of Admission]
-  - **Expected Graduation Date**: [Expected Year of Graduation]
-  - **Supervisor**: [Your Supervisor's Name]
+  - **Institution**: Nanjing University
+  - **Field of Study**: Computer Science and Technology
+  - **Start Date**: 2024
 
-- **Master's Degree** (if applicable)
-  - **Institution**: [University Name]
-  - **Field of Study**: [Your Major]
-  - **Start Date**: [Year of Admission]
-  - **Graduation Date**: [Year of Graduation]
+- **Master's Degree**
+  - **Institution**: Nanjing University of Information Science & Technology
+  - **Field of Study**: Computer Technology
+  - **Start Date**: 2021
+  - **Graduation Date**: 2024
 
 - **Bachelor's Degree**
-  - **Institution**: [University Name]
-  - **Field of Study**: [Your Major]
-  - **Start Date**: [Year of Admission]
-  - **Graduation Date**: [Year of Graduation]
-
-## Research Interests
-
-- [List your main research interests or areas]
+  - **Institution**: Shandong Technology and Business University
+  - **Field of Study**: Computer Science and Technology
+  - **Start Date**: 2017
+  - **Graduation Date**: 2021
 
 ## Publications
 
@@ -45,31 +35,6 @@
 
 - [Article Title], [Author List], [Conference Name], [Location], [Publication Year].
 
-## Projects
-
-### [Project Name] (Date)
-- **Role**: [Your Role]
-- **Project Description**: Briefly describe the background and objectives of the project.
-- **Contributions**: Summarize your specific contributions and achievements.
-
-### [Project Name] (Date)
-- **Role**: [Your Role]
-- **Project Description**: Briefly describe the background and objectives of the project.
-- **Contributions**: Summarize your specific contributions and achievements.
-
-## Awards and Honors
-
-- [Award Name], [Awarding Institution], [Year].
-
-## Professional Activities and Service
-
-- [Activity Name], [Organizer], [Participation Date].
-
-## Skills
-
-- **Programming Languages**: [List programming languages you are proficient in]
-- **Software Tools**: [List software or tools you are familiar with]
-- **Other Skills**: [Any other skills relevant to your research work]
 
 ---
 
