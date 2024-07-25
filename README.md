@@ -25,17 +25,17 @@
   - **Start Date**: 2017
   - **Graduation Date**: 2021
 
-## Publications
+//## Publications
 
-### Journal Articles
+//### Journal Articles
 
-- [Article Title], [Author List], [Journal Name], [Volume]([Issue]), [Publication Year].
+//- [Article Title], [Author List], [Journal Name], [Volume]([Issue]), [Publication Year].
 
-### Conference Papers
+//### Conference Papers
 
-- [Article Title], [Author List], [Conference Name], [Location], [Publication Year].
+//- [Article Title], [Author List], [Conference Name], [Location], [Publication Year].
 
 
 ---
 
-That concludes my academic introduction. If you have any questions or would like to collaborate, please feel free to contact me.
+If you have any questions or would like to collaborate, please feel free to contact me.
