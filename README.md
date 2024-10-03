@@ -4,7 +4,7 @@
 - **Degree**: PhD Candidate
 - **Research Area**: Precipitation nowcasting; Spatiotemporal sequence prediction  
 - **Department**: School of Intelligence Science and Technology, Nanjing University
-- **Email**: zhouyunlong1025@gmail.com  
+- **Email**: ylzhou1998@smail.nju.edu.cn    
 
 ## Education
 
