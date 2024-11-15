@@ -25,17 +25,15 @@
   - **Start Date**: 2017
   - **Graduation Date**: 2021
 
-<!--## Publications
+## Publications
 
 ### Journal Articles
 
-- [Article Title], [Author List], [Journal Name], [Volume], [Publication Year].
+- *Zhou Y*, Hang R, Ji F, et al. Spatiotemporal Enhanced Adversarial Network for Precipitation Nowcasting[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
+- Pan Z, Ji F, *Zhou Y*, et al. Deep Precipitation Nowcasting with Dual Regions Displacement Information and Global Spatiotemporal Representations Learning[J]. IEEE Geoscience and Remote Sensing Letters, 2024.
 
-### Conference Papers
-
+<!--### Conference Papers
 - [Article Title], [Author List], [Conference Name], [Location], [Publication Year].-->
-
-
 ---
 
 If you have any questions or would like to collaborate, please feel free to contact me.
