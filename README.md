@@ -29,6 +29,7 @@
 
 ### Journal Articles
 
+- **Zhou Y**, Zhao C, Ji F, et al. More realistic and accurate precipitation nowcasting with Conditional Rectified Flow Transformers[J]. Engineering Applications of Artificial Intelligence, 2025.
 - **Zhou Y**, Hang R, Ji F, et al. Spatiotemporal Enhanced Adversarial Network for Precipitation Nowcasting[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.
 - Pan Z, Ji F, **Zhou Y**, et al. Deep Precipitation Nowcasting with Dual Regions Displacement Information and Global Spatiotemporal Representations Learning[J]. IEEE Geoscience and Remote Sensing Letters, 2024.
 
