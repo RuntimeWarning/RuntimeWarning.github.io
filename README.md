@@ -8,10 +8,11 @@
 ## 📚 Education
 
 - **[2024 - Present]** 🎓 **PhD in Computer Science and Technology**
-  *Nanjing University (NJU)* - **[2021 - 2024]** 🔬 **Master's Degree in Computer Technology**
+  *Nanjing University (NJU)*
+- **[2021 - 2024]** 🔬 **Master's Degree in Computer Technology**
   *Nanjing University of Information Science & Technology (NUIST)*
 - **[2017 - 2021]** 💻 **Bachelor's Degree in Computer Science and Technology**
-  *Shandong Technology and Business University (STBU)*
+  *Shandong Technology and Business University (SDTBU)*
 
 ---
 
