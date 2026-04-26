@@ -1,6 +1,7 @@
 # Hi there, I'm Yunlong Zhou 👋
 
-🎓 **PhD Candidate** @ School of Intelligence Science and Technology, **Nanjing University** 🔬 **Research Areas**: Precipitation Nowcasting | Spatiotemporal Sequence Prediction  
+🎓 **PhD Candidate** @ School of Intelligence Science and Technology, **Nanjing University**
+🔬 **Research Areas**: Precipitation Nowcasting | Spatiotemporal Sequence Prediction  
 📧 **Reach me at**: [ylzhou1998@smail.nju.edu.cn](mailto:ylzhou1998@smail.nju.edu.cn)  
 
 ---
