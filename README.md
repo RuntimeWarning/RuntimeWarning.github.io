@@ -19,11 +19,16 @@
 
 ## 📝 Publications
 
+### Conference Articles
+
+1. **Yunlong Zhou**, C Zhao, D Peng, et al. *"Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting"*. **Forty-third International Conference on Machine Learning**, 2026.
+2. D Peng, Y Chen, **Yunlong Zhou**, et al. *"LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation"*. **Forty-third International Conference on Machine Learning**, 2026.
+
 ### Journal Articles
 
-1. **Zhou Y**, Zhao C, Ji F, et al. *"More realistic and accurate precipitation nowcasting with Conditional Rectified Flow Transformers"*. **Engineering Applications of Artificial Intelligence**, 2026.
-2. **Zhou Y**, Hang R, Ji F, et al. *"Spatiotemporal Enhanced Adversarial Network for Precipitation Nowcasting"*. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2024.
-3. Pan Z, Ji F, **Zhou Y**, et al. *"Deep Precipitation Nowcasting with Dual Regions Displacement Information and Global Spatiotemporal Representations Learning"*. **IEEE Geoscience and Remote Sensing Letters**, 2024.
+1. **Yunlong Zhou**, C Zhao, F Ji, et al. *"More realistic and accurate precipitation nowcasting with Conditional Rectified Flow Transformers"*. **Engineering Applications of Artificial Intelligence**, 2026.
+2. **Yunlong Zhou**, R Hang, F Ji, et al. *"Spatiotemporal Enhanced Adversarial Network for Precipitation Nowcasting"*. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2024.
+3. Z Pan, F Ji, **Yunlong Zhou**, et al. *"Deep Precipitation Nowcasting with Dual Regions Displacement Information and Global Spatiotemporal Representations Learning"*. **IEEE Geoscience and Remote Sensing Letters**, 2024.
 
 ---
 
