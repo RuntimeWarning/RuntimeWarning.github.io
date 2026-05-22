@@ -2,7 +2,7 @@
 
 🎓 **PhD Candidate** @ School of Intelligence Science and Technology, **Nanjing University**
 🔬 **Research Areas**: Precipitation Nowcasting | Spatiotemporal Sequence Prediction  
-📧 **Reach me at**: [ylzhou1998@smail.nju.edu.cn](mailto:ylzhou1998@smail.nju.edu.cn)  
+📧 **Reach me at**: [yunlongzhou1998@gmail.com](mailto:yunlongzhou1998@gmail.com)  
 
 ---
 
@@ -34,4 +34,4 @@
 
 ## 🤝 Let's Connect
 
-If you have any questions, ideas for collaboration, or just want to chat about precipitation nowcasting and machine learning, please feel free to contact me via [email](mailto:ylzhou1998@smail.nju.edu.cn).
+If you have any questions, ideas for collaboration, or just want to chat about precipitation nowcasting and machine learning, please feel free to contact me via [email](mailto:yunlongzhou1998@gmail.com).
