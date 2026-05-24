@@ -21,8 +21,8 @@
 
 ### Conference Articles
 
-1. **Yunlong Zhou**, C Zhao, D Peng, et al. *"Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting"*. **Forty-third International Conference on Machine Learning**, 2026.
-2. D Peng, Y Chen, **Yunlong Zhou**, et al. *"LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation"*. **Forty-third International Conference on Machine Learning**, 2026.
+1. **Yunlong Zhou**, C Zhao, D Peng, et al. *"Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting"*. **International Conference on Machine Learning (ICML)**, 2026.
+2. D Peng, Y Chen, **Yunlong Zhou**, et al. *"LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation"*. **International Conference on Machine Learning (ICML)**, 2026.
 
 ### Journal Articles
 
