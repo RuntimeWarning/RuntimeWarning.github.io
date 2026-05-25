@@ -26,9 +26,9 @@
 
 ### Journal Articles
 
-1. **Yunlong Zhou**, C Zhao, F Ji, et al. *"More realistic and accurate precipitation nowcasting with Conditional Rectified Flow Transformers"*. **Engineering Applications of Artificial Intelligence**, 2026.
-2. **Yunlong Zhou**, R Hang, F Ji, et al. *"Spatiotemporal Enhanced Adversarial Network for Precipitation Nowcasting"*. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2024.
-3. Z Pan, F Ji, **Yunlong Zhou**, et al. *"Deep Precipitation Nowcasting with Dual Regions Displacement Information and Global Spatiotemporal Representations Learning"*. **IEEE Geoscience and Remote Sensing Letters**, 2024.
+1. **Yunlong Zhou**, C Zhao, F Ji, et al. *"More realistic and accurate precipitation nowcasting with Conditional Rectified Flow Transformers"*. **Engineering Applications of Artificial Intelligence (EAAI)**, 2026.
+2. **Yunlong Zhou**, R Hang, F Ji, et al. *"Spatiotemporal Enhanced Adversarial Network for Precipitation Nowcasting"*. **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)**, 2024.
+3. Z Pan, F Ji, **Yunlong Zhou**, et al. *"Deep Precipitation Nowcasting with Dual Regions Displacement Information and Global Spatiotemporal Representations Learning"*. **IEEE Geoscience and Remote Sensing Letters (GRSL)**, 2024.
 
 ---
 
