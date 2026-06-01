@@ -3,19 +3,18 @@
 🎓 **PhD Candidate**, School of Intelligence Science and Technology, **Nanjing University**  
 🔬 **Research Areas**: Precipitation Nowcasting | Spatiotemporal Sequence Prediction  
 📧 **Email**: [yunlongzhou1998@gmail.com](mailto:yunlongzhou1998@gmail.com)  
-**Google Scholar**: [Yunlong Zhou](https://scholar.google.com/citations?user=lnYM_SwAAAAJ&hl=zh-CN)  
-**GitHub**: [RuntimeWarning](https://github.com/RuntimeWarning)
+**Google Scholar**: [Yunlong Zhou](https://scholar.google.com/citations?user=lnYM_SwAAAAJ&hl=zh-CN)  | **GitHub**: [RuntimeWarning](https://github.com/RuntimeWarning)
 
 ---
 
 ## 📚 Education
 
-- **[2024 - Present]** 🎓 **PhD in Computer Science and Technology**
-  *Nanjing University (NJU)*
-- **[2021 - 2024]** 🔬 **Master's Degree in Computer Technology**
-  *Nanjing University of Information Science & Technology (NUIST)*
-- **[2017 - 2021]** 💻 **Bachelor's Degree in Computer Science and Technology**
-  *Shandong Technology and Business University (SDTBU)*
+- **[2024 - Present]** **PhD in Computer Science and Technology**
+  *Nanjing University (NJU), China*
+- **[2021 - 2024]** **Master's Degree in Computer Technology**
+  *Nanjing University of Information Science & Technology (NUIST), China*
+- **[2017 - 2021]** **Bachelor's Degree in Computer Science and Technology**
+  *Shandong Technology and Business University (SDTBU), China*
 
 ---
 
