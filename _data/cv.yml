@@ -1,0 +1,27 @@
+cv:
+  name: Yunlong Zhou
+  label: PhD Candidate, Nanjing University
+  email: yunlongzhou1998@gmail.com
+  website: https://runtimewarning.github.io
+  summary: PhD candidate working on spatiotemporal prediction and generative models (diffusion, flow matching / rectified flow), with precipitation nowcasting as the main application.
+
+  sections:
+    Education:
+      - institution: School of Intelligence Science and Technology, Nanjing University
+        area: Computer Science and Technology
+        studyType: Ph.D.
+        start_date: 2024-09
+        highlights:
+          - "Advisor: Prof. Xiao-Tong Yuan"
+
+      - institution: School of Computer Science, Nanjing University of Information Science & Technology
+        area: Computer Technology
+        studyType: Master's Degree
+        start_date: 2021-09
+        end_date: 2024-06
+
+      - institution: School of Computer Science and Technology, Shandong Technology and Business University
+        area: Computer Science and Technology
+        studyType: Bachelor's Degree
+        start_date: 2017-09
+        end_date: 2021-06

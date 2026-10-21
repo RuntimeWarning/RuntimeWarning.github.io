@@ -1,0 +1,68 @@
+---
+---
+
+@inproceedings{zhou2026sdir,
+  abbr        = {ICML},
+  bibtex_show = {true},
+  title       = {Learning to Refine: Spectral-Decoupled Iterative Refinement Framework for Precipitation Nowcasting},
+  author      = {Zhou, Yunlong and Zhao, Chen and Peng, Danyang and Ji, Fanfan and Yuan, Xiao-Tong},
+  booktitle   = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  year        = {2026},
+  abstract    = {Accurate precipitation nowcasting is vital for disaster mitigation, but deep learning methods face a key trade-off: regression models produce over-smoothed, spectrally decaying predictions that blur convective details and violate turbulence power laws; diffusion models generate realistic yet unanchored hallucinations lacking physical grounding. We propose Spectral-Decoupled Iterative Refinement (SDIR), a deterministic framework that reformulates nowcasting as progressive frequency-decoupled refinement. SDIR first extracts a stable low-frequency synoptic skeleton, then iteratively refines high-frequency textures under physical constraints, eliminating both blurring and hallucinations. It features a dual-path design: the Synoptic Frequency-Guided Former (SFG-Former) with Scale-Adaptive Transformers for global structure, and the Fourier Residual Refiner (FR-Refiner) with Scale-Conditioned Fourier Neural Operators for fine residuals. A Physically Consistent Power Spectral Density (PCPSD) loss with dynamic masking enforces a turbulence-consistent spectral distribution. Experiments on three benchmarks show SDIR significantly outperforms SOTA methods in spatial accuracy while achieving spectral fidelity competitive with diffusion-based methods, enabling reliable high-resolution operational nowcasting.},
+  arxiv       = {2606.02661},
+  html        = {https://icml.cc/virtual/2026/poster/60540},
+  slides      = {https://icml.cc/media/icml-2026/Slides/60540.pdf},
+  code        = {https://github.com/RuntimeWarning/SDIR},
+  selected    = {true}
+}
+
+@inproceedings{peng2026lophyda,
+  abbr        = {ICML},
+  bibtex_show = {true},
+  title       = {LoPhyDA: Low-Rank Tensor and Physics Gradient Guided Diffusion for Atmospheric Data Assimilation},
+  author      = {Peng, Danyang and Chen, Yang and Zhou, Yunlong and Yuan, Xiao-Tong},
+  booktitle   = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  year        = {2026},
+  html        = {https://icml.cc/virtual/2026/poster/62001},
+  slides      = {https://icml.cc/media/icml-2026/Slides/62001.pdf},
+  selected    = {true}
+}
+
+@article{zhou2026crft,
+  abbr        = {EAAI},
+  bibtex_show = {true},
+  title       = {More realistic and accurate precipitation nowcasting with Conditional Rectified Flow Transformers},
+  author      = {Zhou, Yunlong and Zhao, Chen and Ji, Fanfan and Hang, Renlong and Liu, Qingshan and Yuan, Xiao-Tong},
+  journal     = {Engineering Applications of Artificial Intelligence},
+  volume      = {165},
+  pages       = {113402},
+  year        = {2026},
+  doi         = {10.1016/j.engappai.2025.113402},
+  code        = {https://github.com/RuntimeWarning/CRFT},
+  selected    = {true}
+}
+
+@article{zhou2024stean,
+  abbr        = {JSTARS},
+  bibtex_show = {true},
+  title       = {Spatiotemporal Enhanced Adversarial Network for Precipitation Nowcasting},
+  author      = {Zhou, Yunlong and Hang, Renlong and Ji, Fanfan and Pan, Zefeng and Liu, Qingshan and Yuan, Xiao-Tong},
+  journal     = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume      = {17},
+  pages       = {7608--7620},
+  year        = {2024},
+  doi         = {10.1109/JSTARS.2024.3381822},
+  selected    = {true}
+}
+
+@article{pan2024dual,
+  abbr        = {GRSL},
+  bibtex_show = {true},
+  title       = {Deep Precipitation Nowcasting With Dual Regions Displacement Information and Global Spatiotemporal Representations Learning},
+  author      = {Pan, Zefeng and Ji, Fanfan and Zhou, Yunlong and Hang, Renlong and Liu, Qingshan and Yuan, Xiao-Tong},
+  journal     = {IEEE Geoscience and Remote Sensing Letters},
+  volume      = {21},
+  pages       = {1--5},
+  year        = {2024},
+  doi         = {10.1109/LGRS.2024.3384772}
+}

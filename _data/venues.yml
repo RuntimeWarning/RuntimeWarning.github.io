@@ -1,0 +1,15 @@
+"ICML":
+  url: https://icml.cc/
+  color: "#b31b1b"
+
+"EAAI":
+  url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
+  color: "#e9711c"
+
+"JSTARS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
+  color: "#00629b"
+
+"GRSL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
+  color: "#00629b"
