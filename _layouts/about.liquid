@@ -77,9 +77,11 @@ layout: default
     {% if page.visitor_map %}
       {% comment %}
         The globe widget reads its parent's width once when it starts, so the size is set inline
-        rather than in a stylesheet that might not be applied yet at that moment.
+        rather than in a stylesheet that might not be applied yet at that moment. It also only reveals
+        itself once it is entirely inside the viewport, so it needs some room below it: without the
+        footer it would otherwise sit flush with the page bottom and never count as fully visible.
       {% endcomment %}
-      <div class="visitor-map" style="width: 300px; max-width: 100%; margin: 2rem auto 0">{% include visitor_map.liquid %}</div>
+      <div class="visitor-map" style="width: 300px; max-width: 100%; margin: 2rem auto 3rem">{% include visitor_map.liquid %}</div>
     {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
