@@ -15,6 +15,7 @@ Built with [al-folio](https://github.com/alshedivat/al-folio) (v1.x) and deploye
 | 邮箱、Scholar、GitHub 图标 | `_data/socials.yml` |
 | 期刊/会议缩写的颜色和链接 | `_data/venues.yml` |
 | 网站标题、开关各种功能 | `_config.yml` |
+| 首页底部访客地图 | 开关：`_pages/about.md` 里的 `visitor_map`；代码：`_includes/visitor_map.liquid`（MapMyVisitors） |
 
 改完推到 `main` 分支，Actions 里的 "Deploy site" 跑完（约 5 分钟）网站就会更新。
 
@@ -28,3 +29,7 @@ bundle exec jekyll serve
 ```
 
 然后打开 <http://localhost:4000>。也可以用 Docker：`docker compose up`。
+
+## 注意
+
+`_layouts/about.liquid` 是从 `al_folio_core` 1.0.15 复制出来的首页模板，只在底部加了访客地图。以后升级 `Gemfile` 里 `al_folio_core` 的版本时，要把新版的 `about.liquid` 拷过来，再把地图那几行加回去。
