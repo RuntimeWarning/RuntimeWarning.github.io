@@ -33,3 +33,5 @@ bundle exec jekyll serve
 ## 注意
 
 `_layouts/about.liquid` 是从 `al_folio_core` 1.0.15 复制出来的首页模板，只在底部加了访客地图。以后升级 `Gemfile` 里 `al_folio_core` 的版本时，要把新版的 `about.liquid` 拷过来，再把地图那几行加回去。
+
+`_includes/footer.liquid` 是一个空文件，用来把全站页脚去掉。想恢复默认页脚，删掉这个文件即可。
