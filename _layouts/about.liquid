@@ -76,10 +76,10 @@ layout: default
     <!-- Visitor map (local addition; the rest of this file is al_folio_core 1.0.15's about.liquid) -->
     {% if page.visitor_map %}
       {% comment %}
-        The globe widget reads its parent's width once when it starts, so the size is set inline
-        rather than in a stylesheet that might not be applied yet at that moment. It also only reveals
-        itself once it is entirely inside the viewport, so it needs some room below it: without the
-        footer it would otherwise sit flush with the page bottom and never count as fully visible.
+        MapMyVisitors widgets read their parent's width once when they start, so the size is set inline
+        rather than in a stylesheet that might not be applied yet at that moment. The bottom margin keeps
+        the widget off the very bottom of the page (the globe variant only appears once it is entirely
+        inside the viewport, which it never is when flush with the page bottom).
       {% endcomment %}
       <div class="visitor-map" style="width: 300px; max-width: 100%; margin: 2rem auto 3rem">{% include visitor_map.liquid %}</div>
     {% endif %}

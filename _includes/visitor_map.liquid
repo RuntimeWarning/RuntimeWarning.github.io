@@ -1,7 +1,6 @@
 {% comment %}
-  globe.js fetches its own jQuery asynchronously and only then binds $(window).load to reveal the globe.
-  When the page has already finished loading by that time, the globe stays hidden forever. globe.js
-  reuses window.globe_jq if it exists, so providing that jQuery up front makes it start right away.
+  map.js fetches its own jQuery from code.jquery.com (often slow from mainland China) before it starts.
+  It reuses window.vmap_jq if it exists, so providing that jQuery up front from jsDelivr lets it start right away.
 {% endcomment %}
 <script
   src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"
@@ -9,6 +8,6 @@
   crossorigin="anonymous"
 ></script>
 <script>
-  window.globe_jq = jQuery.noConflict(true);
+  window.vmap_jq = jQuery.noConflict(true);
 </script>
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=dHDoq1XkSs0nJI1us2VCR4tLOC7lZRvrZ1JQaZiOdLE"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=GlKJzD20S9mm3JJU1Gj_RMQaswnojgPJNOuZ87emg64&cl=ffffff&w=a"></script>
