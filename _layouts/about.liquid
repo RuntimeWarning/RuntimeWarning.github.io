@@ -75,7 +75,11 @@ layout: default
 
     <!-- Visitor map (local addition; the rest of this file is al_folio_core 1.0.15's about.liquid) -->
     {% if page.visitor_map %}
-      <div class="visitor-map">{% include visitor_map.liquid %}</div>
+      {% comment %}
+        The globe widget reads its parent's width once when it starts, so the size is set inline
+        rather than in a stylesheet that might not be applied yet at that moment.
+      {% endcomment %}
+      <div class="visitor-map" style="width: 300px; max-width: 100%; margin: 2rem auto 0">{% include visitor_map.liquid %}</div>
     {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
@@ -87,12 +91,3 @@ layout: default
     {% endif %}
   </article>
 </div>
-
-<style>
-  .visitor-map {
-    display: flex;
-    justify-content: center;
-    margin: 2rem auto 0;
-    max-width: 320px;
-  }
-</style>
