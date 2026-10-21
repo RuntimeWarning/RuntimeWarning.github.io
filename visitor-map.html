@@ -1,0 +1,43 @@
+---
+layout: null
+sitemap: false
+permalink: /visitor-map.html
+---
+{% comment %}
+  Standalone page holding the MapMyVisitors widget; the homepage embeds it in an iframe.
+  The widget runs the data it receives through eval(), which the Content-Security-Policy in
+  al_folio_core's head.liquid forbids. This page has no layout, hence no CSP, so the widget works
+  here without loosening the policy for the rest of the site.
+
+  map.js would otherwise first fetch jQuery from code.jquery.com (often slow from mainland China);
+  it reuses window.vmap_jq when present, so jQuery is provided up front from jsDelivr.
+{% endcomment %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <base target="_blank">
+    <title>Visitor map</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background: transparent;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"
+      integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      window.vmap_jq = jQuery.noConflict(true);
+    </script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=GlKJzD20S9mm3JJU1Gj_RMQaswnojgPJNOuZ87emg64&cl=ffffff&w=a"></script>
+  </body>
+</html>

@@ -15,7 +15,7 @@ Built with [al-folio](https://github.com/alshedivat/al-folio) (v1.x) and deploye
 | 邮箱、Scholar、GitHub 图标 | `_data/socials.yml` |
 | 期刊/会议缩写的颜色和链接 | `_data/venues.yml` |
 | 网站标题、开关各种功能 | `_config.yml` |
-| 首页底部访客地图 | 开关：`_pages/about.md` 里的 `visitor_map`；代码：`_includes/visitor_map.liquid`（MapMyVisitors） |
+| 首页底部访客地图 | 开关：`_pages/about.md` 里的 `visitor_map`；地图代码在 `visitor-map.html`（MapMyVisitors），首页通过 `_includes/visitor_map.liquid` 里的 iframe 嵌入 |
 
 改完推到 `main` 分支，Actions 里的 "Deploy site" 跑完（约 5 分钟）网站就会更新。
 

@@ -1,13 +1,12 @@
 {% comment %}
-  map.js fetches its own jQuery from code.jquery.com (often slow from mainland China) before it starts.
-  It reuses window.vmap_jq if it exists, so providing that jQuery up front from jsDelivr lets it start right away.
+  The widget itself lives in /visitor-map.html (see the note there on why it needs its own page).
+  180px is the height map.js renders at for a 300px width.
 {% endcomment %}
-<script
-  src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"
-  integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
-  crossorigin="anonymous"
-></script>
-<script>
-  window.vmap_jq = jQuery.noConflict(true);
-</script>
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=GlKJzD20S9mm3JJU1Gj_RMQaswnojgPJNOuZ87emg64&cl=ffffff&w=a"></script>
+<iframe
+  src="{{ '/visitor-map.html' | relative_url }}"
+  title="Visitor map"
+  width="300"
+  height="180"
+  scrolling="no"
+  style="border: 0; display: block; max-width: 100%"
+></iframe>
