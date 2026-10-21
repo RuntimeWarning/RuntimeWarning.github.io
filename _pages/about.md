@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-visitor_map: true # shows the MapMyVisitors widget from _includes/visitor_map.liquid below the social icons
+social: false # social icons are already in the navbar (enable_navbar_social in _config.yml)
+visitor_map: true # shows the MapMyVisitors widget from _includes/visitor_map.liquid at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
