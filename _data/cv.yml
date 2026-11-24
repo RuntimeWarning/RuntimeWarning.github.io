@@ -6,6 +6,13 @@ cv:
   summary: PhD candidate working on spatiotemporal prediction and generative models (diffusion, flow matching / rectified flow), with precipitation nowcasting as the main application.
 
   sections:
+    Experience:
+      - company: 南京市爱思人工智能科技有限公司
+        position: Research Intern
+        location: Nanjing, China
+        start_date: 2026-11
+        end_date: present
+
     Education:
       - institution: School of Intelligence Science and Technology, Nanjing University
         area: Computer Science and Technology
