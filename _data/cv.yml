@@ -7,7 +7,7 @@ cv:
 
   sections:
     Experience:
-      - company: 南京市爱思人工智能科技有限公司
+      - company: '<a href="https://agnes-ai.com/">Agnes AI Technology Co., Ltd.</a>'
         position: Research Intern
         location: Nanjing, China
         start_date: 2026-11
