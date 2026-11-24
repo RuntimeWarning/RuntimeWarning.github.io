@@ -1,6 +1,19 @@
 ---
 ---
 
+@article{zhou2026fdit,
+  abbr        = {TGRS},
+  bibtex_show = {true},
+  title       = {Unveiling Latent Capabilities: Pursuing Accurate Precipitation Nowcasting with Frequency Diffusion Transformers},
+  author      = {Zhou, Yunlong and Zhao, Chen and Ji, Fanfan and Hang, Renlong and Liu, Qingshan and Yuan, Xiao-Tong},
+  journal     = {IEEE Transactions on Geoscience and Remote Sensing},
+  year        = {2026},
+  doi         = {10.1109/TGRS.2026.3755042},
+  html        = {https://ieeexplore.ieee.org/document/11803064},
+  abstract    = {Accurate precipitation nowcasting is essential for flood control, traffic, and agriculture, yet producing forecasts that are both accurate and realistic remains challenging because atmospheric processes couple broad-scale evolution with fine-scale intermittency. Conventional deep models often yield overly smoothed forecasts that lack realistic fine-scale structures. While recent diffusion-based methods have made progress, they suffer from spatial misalignment in global patterns and hallucinated high-frequency structures. We propose a frequency-aware diffusion framework that tackles these issues through three complementary components: 1) Frequency Diffusion Transformer (FDiT), a Transformer that integrates a Frequency Enhanced Attention (FEA) module and a Frequency Mixture of Experts (FMoE) layer. FDiT can extract and model both high-frequency and low-frequency features, and dynamically adjust their balance based on the diffusion timestep, helping the model better capture large-scale rainfall patterns and small-scale details. 2) Progressive Timestep Training Strategy (PTTS), a coarse-to-fine curriculum that prioritizes low-frequency global structure early in training and progressively allocates more sampling budget to high-frequency local details. 3) Frequency-Adaptive Regularization (FAR), a criterion that dynamically reweights errors in the Fourier domain according to the diffusion timestep, steering the model to balance accuracy across scales. Extensive experiments on three datasets show that our method surpasses prior state-of-the-art (SOTA) baselines on nearly all metrics, while delivering visually realistic fine-scale precipitation patterns.},
+  selected    = {true}
+}
+
 @inproceedings{zhou2026sdir,
   abbr        = {ICML},
   bibtex_show = {true},
