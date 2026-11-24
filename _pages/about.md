@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD candidate at the School of Intelligence Science and Technology, [Nanjing University](https://www.nju.edu.cn/en/), advised by Prof. [Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/). Before that, I received my Master's degree in Computer Technology from Nanjing University of Information Science & Technology (NUIST) in 2024, and my Bachelor's degree in Computer Science and Technology from Shandong Technology and Business University in 2021.
+I am a PhD candidate at the School of Intelligence Science and Technology, [Nanjing University](https://www.nju.edu.cn/en/), advised by Prof. [Xiao-Tong Yuan](https://sites.google.com/site/xtyuan1980/). Before that, I received my Master's degree in Computer Technology from Nanjing University of Information Science & Technology in 2024, and my Bachelor's degree in Computer Science and Technology from Shandong Technology and Business University in 2021.
 
 My research focuses on **spatiotemporal prediction** and **generative models**, with **precipitation nowcasting** as the main application. Specifically, I work on:
 
@@ -28,4 +28,4 @@ My research focuses on **spatiotemporal prediction** and **generative models**, 
 - **Spatiotemporal sequence prediction**: Transformer and recurrent architectures, frequency-domain modeling and Fourier neural operators.
 - **AI for weather**: radar-based nowcasting, spectral fidelity of forecasts, and bringing research models into operational use.
 
-I am currently a **research intern** at 南京市爱思人工智能科技有限公司 (Nanjing, China). Feel free to reach out by email.
+I am currently a **research intern** at [Agnes AI Technology Co., Ltd.](https://agnes-ai.com/) (Nanjing, China). Feel free to reach out by email.
