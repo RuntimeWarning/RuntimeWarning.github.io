@@ -6,6 +6,10 @@
   url: https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
   color: "#e9711c"
 
+"TGRS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36
+  color: "#00629b"
+
 "JSTARS":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
   color: "#00629b"
