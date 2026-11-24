@@ -28,4 +28,4 @@ My research focuses on **spatiotemporal prediction** and **generative models**, 
 - **Spatiotemporal sequence prediction**: Transformer and recurrent architectures, frequency-domain modeling and Fourier neural operators.
 - **AI for weather**: radar-based nowcasting, spectral fidelity of forecasts, and bringing research models into operational use.
 
-I am currently looking for **research internship** opportunities in generative modeling and spatiotemporal prediction. Feel free to reach out by email.
+I am currently a **research intern** at 南京市爱思人工智能科技有限公司 (Nanjing, China). Feel free to reach out by email.
